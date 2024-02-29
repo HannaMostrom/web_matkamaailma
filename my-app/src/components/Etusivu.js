@@ -40,18 +40,18 @@ function Etusivu() {
                   yhteydenottolomakkeemme
                 </a>{" "}
                 kautta.
-              </p>
-              <Row>
-                <Col>
-                  <img
-                    src={boat}
-                    className="picture-center"
-                    alt="hands"
-                    height="80%"
-                    width="60%"
-                  />
-                </Col>
-              </Row>
+              </p>{" "}
+            </Col>
+          </Row>
+          <Row>
+            <Col>
+              <img
+                src={boat}
+                className="picture-center"
+                alt="hands"
+                height="80%"
+                width="60%"
+              />
             </Col>
           </Row>
         </div>
