@@ -1,0 +1,322 @@
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #15191b;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.tausta {
+  background-color: #ebebeb;
+}
+
+.p-teksti {
+  font-family: Helvetica;
+  font-size: 28px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 40px;
+  margin-right: 20px;
+}
+
+.p-teksti2 {
+  font-family: Helvetica;
+  font-size: 28px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 40px;
+  margin-right: 20px;
+}
+
+.p-teksti3 {
+  font-family: Helvetica;
+  font-size: 28px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 40px;
+  margin-right: 100px;
+}
+
+.picture {
+  margin-top: 2%;
+  margin-bottom: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.picture3 {
+  margin-top: 2%;
+  margin-bottom: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.picture2 {
+  margin-top: 40px;
+
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.picture-center {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text-primary {
+  font-family: Arial;
+  font-size: 24px;
+}
+
+.label-kolme {
+  text-align: center;
+  color: #232323;
+  text-align: left;
+  font-family: Arial;
+  font-size: 24px;
+  font-style: italic;
+  margin-left: 35px;
+}
+
+.div {
+  color: #232323;
+}
+
+.otsikko {
+  text-align: center;
+  color: #232323;
+  font-family: Arial;
+  font-size: 72px;
+  font-weight: bold;
+  margin-left: 35px;
+}
+
+.tokaOtsikko {
+  text-align: center;
+  color: #232323;
+  text-align: left;
+  font-family: Helvetica;
+  font-size: 44px;
+  font-weight: bold;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+.kolmasOtsikko {
+  text-align: center;
+  color: #232323;
+  text-align: left;
+  font-family: Helvetica;
+  font-size: 44px;
+  font-weight: bold;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+.neljasOtsikko {
+  text-align: center;
+  color: #232323;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 44px;
+  font-weight: bold;
+  margin-left: 35px;
+}
+
+.label-teksti {
+  text-align: center;
+  color: #232323;
+  text-align: left;
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 35px;
+}
+
+.label-linkki {
+  text-align: center;
+  color: #232323;
+  text-align: center;
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: bold;
+  margin-right: 35%;
+}
+
+.label-kakkonen {
+  color: #232323;
+  text-align: left;
+  font-family: Arial;
+  font-size: 26px;
+  margin-top: 5px;
+  margin-left: 10%;
+}
+
+.label-vasen {
+  color: #232323;
+  text-align: left;
+  font-family: Arial;
+  font-size: 26px;
+  margin-top: 5px;
+  margin-left: 1%;
+}
+
+.label-vasen2 {
+  color: #232323;
+  text-align: left;
+  font-family: Arial;
+  font-size: 26px;
+  margin-left: 5%;
+}
+
+.label-center {
+  text-align: center;
+  color: #232323;
+  font-family: Arial;
+  font-size: 26px;
+  margin-top: 5px;
+}
+
+.label-center2 {
+  text-align: right;
+  color: #232323;
+  font-family: Arial;
+  font-size: 26px;
+  margin-top: 5px;
+  margin-left: 30px;
+}
+
+.label-oikea {
+  color: #232323;
+  text-align: right;
+  font-family: Arial;
+  font-size: 26px;
+
+  margin-left: 52%;
+}
+
+.label-oikea2 {
+  color: #232323;
+  text-align: right;
+  font-family: Arial;
+  font-size: 26px;
+
+  margin-left: 10%;
+}
+
+.label-kolmonen {
+  color: #232323;
+  font-family: Helvetica;
+  font-size: 24px;
+  margin-left: 30%;
+}
+
+.etuOtsikko {
+  color: #232323;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 44px;
+  font-weight: bold;
+  margin-top: 35px;
+}
+
+.tekstit {
+  color: #232323;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.tekstit-kaksi {
+  color: #232323;
+  font-family: Helvetica;
+  text-align: left;
+}
+
+input[type="text"],
+select,
+textarea {
+  width: 50%;
+  padding: 12px;
+  margin-top: 0, 5%;
+  margin-bottom: 16x;
+  margin-left: 30%;
+  margin-right: 40%;
+}
+
+input[type="text2"],
+select,
+textarea {
+  width: 50%;
+  height: 200px;
+  padding: 12px;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  margin-left: 30%;
+  margin-right: 40%;
+}
+
+input[type="submit"] {
+  background-color: #d9cccc;
+  color: #232323;
+  padding: 5px 50px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 72%;
+  margin-bottom: 5%;
+}
+
+input[type="submit"]:hover {
+  background-color: #f4dfdf;
+}
+
+.linkki {
+  color: #232323;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.custom {
+  background-color: #d9cccc;
+  border-radius: 5px;
+  border: solid;
+}
+
+.custom a {
+  color: #232323;
+  font-size: 24px;
+}
+
+.custom a:hover {
+  background-color: #bfa450;
+  color: #232323;
+}
+
+.custom a.active {
+  background-color: #bfa450;
+  color: white;
+}
