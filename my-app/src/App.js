@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Routes>
-          <Route path="/etusivu" element={<Etusivu />} />
+          <Route path="/" element={<Etusivu />} />
           <Route path="/varaus" element={<Varaussivu />} />
           <Route path="/kohteet" element={<Kohteet />} />
           <Route path="/matkakertomukset" element={<Matkakertomukset />} />
