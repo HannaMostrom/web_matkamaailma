@@ -19,8 +19,7 @@ function ContactForm() {
             className="tekstit-kaksi"
           />
           <br></br>
-        </form>
-        <form>
+
           <label className="label-kolmonen" for="number">
             Puhelinnumero
           </label>
