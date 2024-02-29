@@ -254,7 +254,8 @@
 .tekstit-kaksi {
   color: #232323;
   font-family: Helvetica;
-  text-align: center;
+  text-align: left;
+  margin-left: 30%;
 }
 
 input[type="text"],
