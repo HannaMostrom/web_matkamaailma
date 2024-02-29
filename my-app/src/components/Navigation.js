@@ -21,7 +21,7 @@ function Navigation() {
         </button>
         <ul class="nav nav-pills mx-auto">
           <li class="nav-item custom custom">
-            <a className="nav-item nav-link custom tekstit" href="/etusivu">
+            <a className="nav-item nav-link custom tekstit" href="/">
               Etusivu
             </a>
           </li>
