@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b078f18.css",
+    "main.js": "/static/js/main.399f995f.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/beachvideo.mp4": "/static/media/beachvideo.1839961256cfd10c4741.mp4",
+    "static/media/pyramidsvideo.mp4": "/static/media/pyramidsvideo.404d0e48ec1f8c846457.mp4",
+    "static/media/virovideo.mp4": "/static/media/virovideo.72a9593c2c0c15d0f27d.mp4",
+    "static/media/oldtown.jpg": "/static/media/oldtown.1c6247648addb8bda7ea.jpg",
+    "static/media/lobby.jpg": "/static/media/lobby.d639f04f62849fa88c94.jpg",
+    "static/media/beach.jpg": "/static/media/beach.ce2e6d36c2bd0306925a.jpg",
+    "static/media/puisto.jpg": "/static/media/puisto.1e4430f2f04785145533.jpg",
+    "static/media/viro1.jpg": "/static/media/viro1.aec3b1fa35cb0abab8ea.jpg",
+    "static/media/bikeride.jpg": "/static/media/bikeride.5a31bc7631a90a3b9225.jpg",
+    "static/media/olds.jpg": "/static/media/olds.59e9c290b5db592b244c.jpg",
+    "static/media/boat.jpg": "/static/media/boat.d71431692f26bf2ed2f5.jpg",
+    "static/media/morocco.jpg": "/static/media/morocco.ed1277186af72292c39b.jpg",
+    "static/media/seaguls.jpg": "/static/media/seaguls.8d4427c92cf5d7fd408e.jpg",
+    "static/media/restaurant.jpg": "/static/media/restaurant.ac70cd01d18b28738d62.jpg",
+    "static/media/bedroom.jpg": "/static/media/bedroom.73d0c233a00d23086a90.jpg",
+    "static/media/woman.jpg": "/static/media/woman.bacbd8e1ac64622e0bea.jpg",
+    "static/media/hands.jpg": "/static/media/hands.11b19a74681d26639e64.jpg",
+    "static/media/hotelroom.jpg": "/static/media/hotelroom.215d0a1e1460ff945602.jpg",
+    "static/media/drink.jpg": "/static/media/drink.09025430241422f7865d.jpg",
+    "static/media/pyramids.jpg": "/static/media/pyramids.f09417724d7f40c8673a.jpg",
+    "static/media/responsibility.jpg": "/static/media/responsibility.c766468e788beb59960d.jpg",
+    "index.html": "/index.html",
+    "main.8b078f18.css.map": "/static/css/main.8b078f18.css.map",
+    "main.399f995f.js.map": "/static/js/main.399f995f.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b078f18.css",
+    "static/js/main.399f995f.js"
+  ]
+}
