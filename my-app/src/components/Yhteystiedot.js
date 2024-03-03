@@ -39,13 +39,10 @@ function Yhteystiedot() {
             />
           </Col>
         </Row>
-        <Row>
-          <Col>
-            <br></br>
-            <br></br>
-            <ContactForm />
-          </Col>
-        </Row>
+
+        <br></br>
+        <br></br>
+        <ContactForm />
       </div>
     </Container>
   );

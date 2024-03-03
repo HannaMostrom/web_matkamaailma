@@ -112,6 +112,14 @@
   margin-left: 35px;
 }
 
+/* Mediaquery pienemmille näyttöko'ille, kuten mobiililaitteille */
+@media only screen and (max-width: 600px) {
+  .otsikko {
+    font-size: 40px; /* Pienennä fonttikokoa mobiililaitteilla */
+    margin-left: 0; /* Poista vasen marginaali mobiililaitteilla */
+  }
+}
+
 .tokaOtsikko {
   text-align: center;
   color: #232323;
@@ -122,7 +130,13 @@
   margin-left: 40px;
   margin-top: 40px;
 }
-
+/* Mediaquery pienemmille näyttöko'ille, kuten mobiililaitteille */
+@media only screen and (max-width: 600px) {
+  .tokaOtsikko {
+    font-size: 30px; /* Pienennä fonttikokoa mobiililaitteilla */
+    margin-left: 0; /* Poista vasen marginaali mobiililaitteilla */
+  }
+}
 .kolmasOtsikko {
   text-align: center;
   color: #232323;
@@ -132,6 +146,12 @@
   font-weight: bold;
   margin-left: 40px;
   margin-top: 40px;
+} /* Mediaquery pienemmille näyttöko'ille, kuten mobiililaitteille */
+@media only screen and (max-width: 600px) {
+  .kolmasOtsikko {
+    font-size: 30px; /* Pienennä fonttikokoa mobiililaitteilla */
+    margin-left: 0; /* Poista vasen marginaali mobiililaitteilla */
+  }
 }
 
 .neljasOtsikko {
@@ -143,7 +163,13 @@
   font-weight: bold;
   margin-left: 35px;
 }
-
+/* Mediaquery pienemmille näyttöko'ille, kuten mobiililaitteille */
+@media only screen and (max-width: 600px) {
+  .neljasOtsikko {
+    font-size: 30px; /* Pienennä fonttikokoa mobiililaitteilla */
+    margin-left: 0; /* Poista vasen marginaali mobiililaitteilla */
+  }
+}
 .label-teksti {
   text-align: center;
   color: #232323;
@@ -240,7 +266,13 @@
   font-weight: bold;
   margin-top: 35px;
 }
-
+/* Mediaquery pienemmille näyttöko'ille, kuten mobiililaitteille */
+@media only screen and (max-width: 600px) {
+  .etuOtsikko {
+    font-size: 30px; /* Pienennä fonttikokoa mobiililaitteilla */
+    margin-left: 0; /* Poista vasen marginaali mobiililaitteilla */
+  }
+}
 .tekstit {
   color: #232323;
   font-family: Helvetica;
