@@ -9,8 +9,12 @@ function Etusivu() {
   return (
     <Container fluid>
       <div className="tausta">
-        <h1 className="otsikko">MATKAMAAILMA</h1>
-        <Navigation />
+        <Row>
+          <Col>
+            <h1 className="otsikko">MATKAMAAILMA</h1>
+            <Navigation />
+          </Col>
+        </Row>
         <div>
           <Row>
             <Col>

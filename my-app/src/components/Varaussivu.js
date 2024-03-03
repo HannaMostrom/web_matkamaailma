@@ -13,9 +13,13 @@ function Varaussivu() {
   return (
     <Container fluid>
       <div className="tausta">
-        <h1 className="otsikko">MATKAMAAILMA</h1>
-        <Navigation />
-        <h2 className="tokaOtsikko">VARAUSSIVUSTO</h2>
+        <Row>
+          <Col>
+            <h1 className="otsikko">MATKAMAAILMA</h1>
+            <Navigation />
+            <h2 className="tokaOtsikko">VARAUSSIVUSTO</h2>
+          </Col>
+        </Row>
         <Row>
           <Col>
             <div className="picture">
@@ -183,7 +187,11 @@ function Varaussivu() {
               </p>
             </Col>
           </Row>
-          <ContactForm />
+          <Row>
+            <Col>
+              <ContactForm />
+            </Col>
+          </Row>
         </Row>
       </div>
     </Container>
